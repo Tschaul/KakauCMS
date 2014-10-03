@@ -1,0 +1,6 @@
+[09-Jul-2009 15:47:31] PHP Fatal error:  Cannot use string offset as an array in /proj/websource/docs/FAU/fakultaet/techfak/www.mss.cbi.uni-erlangen.de/websource/php/meta/DBFunctions.php on line 687
+[09-Jul-2009 15:47:31] PHP Fatal error:  Cannot use string offset as an array in /proj/websource/docs/FAU/fakultaet/techfak/www.mss.cbi.uni-erlangen.de/websource/php/meta/DBFunctions.php on line 687
+[09-Jul-2009 15:47:33] PHP Fatal error:  Cannot use string offset as an array in /proj/websource/docs/FAU/fakultaet/techfak/www.mss.cbi.uni-erlangen.de/websource/php/meta/DBFunctions.php on line 687
+[09-Jul-2009 15:49:05] PHP Fatal error:  Call to undefined function get_obj_vars() in /proj/websource/docs/FAU/fakultaet/techfak/www.mss.cbi.uni-erlangen.de/websource/php/meta/DBFunctions.php on line 687
+[09-Jul-2009 15:49:53] PHP Fatal error:  Cannot use string offset as an array in /proj/websource/docs/FAU/fakultaet/techfak/www.mss.cbi.uni-erlangen.de/websource/php/meta/DBFunctions.php on line 689
+[09-Jul-2009 15:51:47] PHP Fatal error:  Cannot use string offset as an array in /proj/websource/docs/FAU/fakultaet/techfak/www.mss.cbi.uni-erlangen.de/websource/php/meta/DBFunctions.php on line 689
